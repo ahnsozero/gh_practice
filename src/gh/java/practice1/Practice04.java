@@ -1,9 +1,9 @@
-package github.java.practice1;
+package gh.java.practice1;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Practice4 {
+public class Practice04 {
 			
 		public void tenArrays() {
 					

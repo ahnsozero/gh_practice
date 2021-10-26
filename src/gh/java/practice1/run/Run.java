@@ -1,11 +1,11 @@
-package github.java.practice1.run;
+package gh.java.practice1.run;
 
-import github.java.practice1.Practice4;
+import gh.java.practice1.Practice04;
 
 public class Run {
 
 	public static void main(String[] args) {
-		 Practice4 a = new Practice4();
+		 Practice04 a = new Practice04();
 //		 a.tenArrays();
 //		 a.icantRotto();
 		 a.icantMethod();
