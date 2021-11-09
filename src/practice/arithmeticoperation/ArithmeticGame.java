@@ -6,8 +6,9 @@ public class ArithmeticGame {
 	Scanner sc = new Scanner(System.in);
 	
 	public void method1() {		
-		
+		System.out.println("재미있는 삼칙연산게임");
 		System.out.println("즐겁게 문제를 푸시다가 지겨우면 0을 누르세요~");
+		
 		System.out.println("# 엔터를 누르면 시작합니다.");
 		System.out.println("==============================\n");
 		String enter = sc.nextLine();
