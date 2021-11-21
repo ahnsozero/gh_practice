@@ -24,7 +24,7 @@ public class ReadExample1 {
 		while(true) {
 			readData1 =  reader.read();
 			if(readData1 == -1) break;
-			System.out.print((char)readData1);
+			System.out.print(readData1);
 		}
 		
 		reader.close();
